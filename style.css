@@ -1,0 +1,25 @@
+/*
+ Theme Name:   Nubium Child
+ Theme URI:    http://www.moonshinenet.com
+ Description:  Nubium Child Theme
+ Author:       Moonshine Internet
+ Author URI:   http://www.moonshinenet.com
+ Template:     nubium
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  nubium-child
+*/
+
+body,
+button,
+input,
+select,
+textarea {
+	/*font-family: "open-sans",sans-serif;
+	font-weight:400;*/
+}
+
+.hentry { margin:0; }
+
